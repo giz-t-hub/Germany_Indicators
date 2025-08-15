@@ -78,7 +78,7 @@
 </table>
 
 
-Trips, distances & durations
+<b> Trips, distances & durations </b> 
 
 <table>
   <tr>
@@ -135,37 +135,231 @@ Trips, distances & durations
       Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a>
     </td>
   </tr>
+    <tr>
+    <td valign="top">Multimodality rate</td>
+    <td valign="top">
+      National data are limited<br><br>
+      Berlin: ~ 53 % of residents use different modes of transport during a typical week. Carsharing is used by 14 % of respondents, 96 % use public transport, 11 % rent bikes, 75 % use private bicycles and 14 % rent escooters<br>
+      Dresden: ~ 51 % of residents use different modes of transport during a typical week. Carsharing is used by 11 % of respondents, 95 % use public transport, 13 % rent bikes, 74 % use private bicycles and 5 % rent escooters<br>
+      Frankfurt a.M.: ~ 54 % of residents use different modes of transport during a typical week. Carsharing is used by 17 % of respondents, 94 % use public transport, 12 % rent bikes, 76 % use private bicycles and 19 % rent escooters<br>
+      Munich: ~ 62 % of residents use different modes of transport during a typical week. Carsharing is used by 22 % of respondents, 97 % use public transport, 12 % rent bikes, 83 % use private bicycles and 18 % rent escooters
+    </td>
+    <td valign="top">SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a></td>
+  </tr>
 </table>
 
 
 
-Vehicle stock, registration & EV share
+<b> Vehicle stock, registration & EV share </b> 
 
-| Indicator | Key data (Germany) & examples for cities/states | Sources |
-|-----------|-------------------------------------------------|---------|
-| Vehicle stock and density | As of 1 Jan 2025: ≈ 61.10 M motor vehicles registered in Germany, including:<br>49.34 M passenger cars (+0.7 % vs 2024)<br>5.06 M motorbikes<br>3.83 M trucks<br>85,600 buses<br><br>Electric vehicles (stock): battery-electric cars numbered ≈ 1.65 M, corresponding to 3.3 % of the car fleet.<br><br>Per capita examples:<br>Nation-wide: 583 cars per 1,000 residents<br>Berlin: 326 cars/1,000 residents (lowest car density)<br>Hamburg: 424 cars/1,000 residents<br>Frankfurt: 446 cars/1,000 residents<br>Dresden: 406 cars/1,000 residents<br>Main Taunus Kreis: 759 cars/1,000 residents | KBA |
-| New registrations (2024) | About 2.8 M new passenger cars were registered in 2024 (around 1% less compared to 2023):<br>380,609 were battery-electric (13.5 %),<br>947,398 hybrids (33.6 %) [thereof: 191,905 plug-in hybrids (6.8 %)],<br>1,475,209 petrol or diesel cars (52.4 %).<br><br>New registrations of commercial vehicles (Nutzfahrzeuge) were 426,912, including 19,142 BEVs.<br><br>The average CO₂ emissions of newly registered passenger cars rose by +4.2 % to 119.8 g/km in 2024 (previous year: 114.9 g/km). | KBA |
-| Share of EVs (stock) | Battery-electric cars made up 3.3 % (≈ 1.7 M cars) of the passenger-car fleet at the beginning of 2025.<br>Hybrids accounted for ≈ 3.6 M cars (≈ 7.2 % of the fleet), including ≈ 1 M plug-in hybrids (2.0 %).<br><br>Per capita:<br>20 BEVs/1,000 residents<br>31 non-plug-in hybrids/1,000 residents<br>12 plug-in hybrids/1,000 residents | KBA |
-| Mileage (total) | Total domestic mileage of all motor vehicles in 2024 was ≈ 711.6 trillion km, of which 594.1 trillion km were driven by passenger cars.<br>Mileage by trucks up to 3.5 t was ≈ 58.4 trillion km.<br><br>Per capita:<br>Motor vehicles: 8,516 km/capita<br>Passenger cars: 7,111 km/capita<br>Trucks: 699 km/capita | KBA, Destatis |
-| Mileage (per vehicle) | Average annual mileage per passenger car in 2024: 12,309 km (2023: 12,320 km).<br>Petrol cars averaged 9,555 km/yr and diesel cars 16,984 km/yr. | KBA |
+<table>
+  <tr>
+    <th>Indicator</th>
+    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Sources</th>
+  </tr>
+  <tr>
+    <td valign="top">Vehicle stock and density</td>
+    <td valign="top">
+      As of 1 Jan 2025): ≈ 61.10 M motor vehicles registered in Germany, including:<br>
+      49.34 M passenger cars (+0.7 % vs 2024)<br>
+      5,06 M motorbikes<br>
+      3.83 M trucks <br>
+      85 600 buses <br><br>
+      • Electric vehicles (stock): batteryelectric cars numbered ≈ 1.65 M, corresponding to 3.3 % of the car fleet.<br><br>
+      Per capita<br>
+      Examples (city and state level):<br>
+      Nation-wide: 583 cars per 1 000 residents<br>
+      Berlin:326 cars/1 000 residents (lowest car density)<br>
+      Hamburg: 424 cars/1 000 residents<br>
+      Frankfurt: 446  cars/1 000 residents<br>
+      Dresden:406 cars/1 000 residents<br>
+      Main Taunus Kreis: 759 cars/1 000 residents
+    </td>
+    <td valign="top">
+      KBA: <a href="https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugbestand/2025/pm10_fz_bestand_pm_komplett.html">Pressemitteilung (Apr 2025)</a><br>
+      KBA Bestand XLSX: <a href="https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ1/fz1_2025.xlsx?__blob=publicationFile&amp;v=2">fz1_2025.xlsx</a> (Jan 2025)
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">New registrations (2024) &amp; H1 2025</td>
+    <td valign="top">
+      H1 2025: <br><br>
+      248 726 new batteryelectric passenger cars registered (17.7 % of all new passengercar registrations)<br><br>
+      Overall passengercar registrations were 4.7 % lower than a year earlier, the halfyear total of ≈ 1.40 million cars was still the secondhighest since 2020.<br><br>
+      Regional and environmental highlights: Bavaria recorded the most BEV registrations (50 714), followed by North RhineWestphalia (50 558) and BadenWürttemberg (38 699).<br><br>
+      Average CO₂ emissions of new cars fell to 109.6 g/km, a reduction of 11.1 % compared with the previous year.<br><br>
+
+      2024:<br><br>
+      About 2.8 M new passenger cars were registered in 2024 (around 1% less compared to 2023):<br>
+      380 609 were batteryelectric (13.5 %),<br>
+      947.398 hybrids (33.6 %) [thereof: 1 191 905 plugin hybrids (6.8 %)] <br>
+      1 475 209 petrol or diesel cars (52.4 %).<br><br>
+      New registrations of commercial vehicles (Nutzfahrzeuge) were 426 912, including 19 142 BEVs.<br><br>
+      The average CO2 emissions of newly registered passenger cars rose by +4.2 per cent to 119.8 g/km in 2024 (previous year: 114.9 g/km)
+    </td>
+    <td valign="top">
+      KBA H1 2025: <a href="https://www.kba.de/DE/Presse/Pressemitteilungen/Allgemein/2025/pm31_2025_rekordhoch.html">Pressemitteilung</a><br>
+      KBA Bestand XLSX: <a href="https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Fahrzeuge/FZ1/fz1_2025.xlsx?__blob=publicationFile&amp;v=2">fz1_2025.xlsx</a><br>
+      KBA 12/2024: <a href="https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugzulassungen/2025/pm01_2025_n_12_24_pm_komplett.html">Presse 01/2025</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Share of EVs (stock)</td>
+    <td valign="top">
+      Batteryelectric cars made up 3.3 % (≈ 1.7 M cars) of the passengercar fleet at the beginning of 2025. <br><br>
+      Hybrids accounted for ≈ 3.6 M cars (≈ 7.2 % of the fleet), including ≈ 1 M plugin hybrids (2.0 %).<br><br>
+      Per capita<br>
+      20 BEVs/1000 residents<br>
+      31 non-plug-in hybrids/1000 residents<br>
+      12 plug-in hybrids/1000 residents
+    </td>
+    <td valign="top">
+      KBA: <a href="https://www.kba.de/DE/Presse/Pressemitteilungen/Fahrzeugbestand/2025/pm10_fz_bestand_pm_komplett.html">Bestand 2025</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Mileage (total)</td>
+    <td valign="top">
+      Total domestic mileage of all motor vehicles in 2024 was ≈ 711.6 trillion km, of which 594.1 trillion km were driven by passenger cars<br><br>
+      Mileage by trucks up to 3.5 t was ≈ 58.4 trillion km<br><br>
+      Per capita<br>
+      Motor vehicles: 8 516 km/capita<br>
+      Passenger cars: 7 111 km/capita<br>
+      Trucks: 699 km/capita
+    </td>
+    <td valign="top">
+      KBA: <a href="https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/2024/verkehr_in_kilometern_kurzbericht_pdf">Kurzbericht (PDF)</a><br>
+      Destatis (population): <a href="https://www-genesis.destatis.de/datenbank/online/statistic/12411/table/12411-0001">GENESIS-Table 12411-0001</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Mileage (per vehicle)</td>
+    <td valign="top">Average annual mileage per passenger car in 2024: 12 309 km (2023: 12 320 km). Petrol cars averaged 9 555 km/yr and diesel cars 16 984 km/yr</td>
+    <td valign="top">KBA: <a href="https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/2024/verkehr_in_kilometern_kurzbericht_pdf">Kurzbericht (PDF)</a></td>
+  </tr>
+</table>
 
 
-Infrastructure & household ownership
 
-| Indicator | Key data (Germany) & examples for cities/states | Sources |
-|-----------|-------------------------------------------------|---------|
-| Cars per household | According to the MiD 2023 short report the car fleet has grown to ≈ 45 million passenger cars available to private households, which equates to about 1.1 cars per household.<br>About 20 % of households are car-free, down from 22 % in 2017, while the share of households with more than one car continues to rise.<br>Outside cities more than 90 % of households have a car, whereas in metropolises about 40 % of households remain car-free. | MiD 2023 |
-| Bicycles | MiD 2023 notes that the bicycle stock has expanded to ≈ 81 million bicycles, of which almost 15 % are electrically assisted Pedelecs. Nationally 76 % of households own at least one bicycle (down from 78 % in 2017) and only about 24 % remain without a bike. The growth of e-bikes contributes to higher cycling kilometres.<br><br>With about 81 M bicycles and roughly 41 M households there are ≈ 2 bicycles per household on average.<br>Nearly 15 % of bikes are e-bikes, and around 21 % of households own at least one e-bike. | MiD 2023 |
-| Number of trucks | The vehicle stock on 1st April 2025 included ≈ 3.85 M trucks (including light and heavy trucks).<br>Electric trucks (BEV) comprise about 2.5 % (97 k vehicles) of the total truck fleet. | KBA |
-| Transport infrastructure | Road network: Germany had ≈ 229.5k km of roads excluding local roads in 2024.<br>Calculated road density is ≈ 0.64 km road per km² (229,530 km / 357,596 km²).<br>Rail network: track length was 33.5k km in 2024, resulting in ≈ 0.09 km rail per km².<br>Train stations: DB’s infrastructure company is responsible for 5,400 stations and stops, another 300 are managed by subsidiary companies.<br>Waterways: 7.3k km inland waterways and 23k km² sea waterways. | BMV, DB, WSV |
+<b> Infrastructure & household ownership </b> 
 
-Fares, budgets & multimodality
+<table>
+  <tr>
+    <th>Indicator</th>
+    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Sources</th>
+  </tr>
+  <tr>
+    <td valign="top">Cars per household</td>
+    <td valign="top">
+      According to the MiD 2023 short report the car fleet has grown to ≈ 45 million passenger cars available to private households, which equates to about 1.1 cars per household. <br><br>
+      About 20 % of households are carfree, down from 22 % in 2017, while the share of households with more than one car continues to rise. <br><br>
+      Outside cities more than 90 % of households have a car, whereas in metropolises about 40 % of households remain carfree.
+    </td>
+    <td valign="top">
+      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/publikationen2023.html">Publikationen</a> – <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Bicycles</td>
+    <td valign="top">
+      MiD 2023 notes that the bicycle stock has expanded to ≈ 81 million bicycles, of which almost 15 % are electrically assisted Pedelecs. Nationally 76 % of households own at least one bicycle (down from 78 % in 2017) and only about 24 % remain without a bike. The growth of ebikes contributes to higher cycling kilometres.<br><br>
+      Bicycles per household / per capita<br>
+      With about 81 M bicycles and roughly 41 M households there are ≈ 2 bicycles per household on average. <br><br>
+      Nearly 15 % of bikes are ebikes, and around 21 % of households own at least one ebike.
+    </td>
+    <td valign="top">
+      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/publikationen2023.html">Publikationen</a> – <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Number of trucks</td>
+    <td valign="top">
+      The vehicle stock on 1st April 2025 included ≈ 3.85 M trucks (including light and heavy trucks)<br><br>
+      Electric-trucks (BEV) comprise about 2.5 % (97 k vehicles) of the total truck fleet
+    </td>
+    <td valign="top">KBA: The vehicle stock on 1st April 2025 (XLSX)</td>
+  </tr>
+  <tr>
+    <td valign="top">Transport infrastructure</td>
+    <td valign="top">
+      • Road network: Germany had ≈ 229.5k km of roads excluding local roads in 2024 <br><br>
+      Calculated road density is ≈ 0.64 km road per km² (229 530 km / 357 596 km²).<br><br>
+      • Rail network: track length was 33.5k km in 2024, resulting in ≈ 0.09 km rail per km².<br><br>
+      • Train stations: DB’s infrastructure company is responsible for 5 400 stations and stops, another 300 are managed by subsidiary companies.<br><br>
+      • Waterways: <br>
+      7.3k km inland waterways and<br>
+      23k km² sea waterways.
+    </td>
+    <td valign="top">
+      BMV: <a href="https://www.bmv.de/SharedDocs/DE/Artikel/G/infrastruktur-statistik">Infrastruktur-Statistik</a><br>
+      DB: <a href="https://ibir.deutschebahn.com/2024/fileadmin/downloads/DB_DuF_e_2024.pdf">DB DuF (PDF)</a><br>
+      WSV: <a href="https://www.gdws.wsv.bund.de/DE/wasserstrassen/01_bundeswasserstrassen/bundeswasserstrassen-node.html">Bundeswasserstraßen</a>
+    </td>
+  </tr>
+</table>
 
-| Indicator | Key data (Germany) & examples for cities/states | Sources |
-|-----------|-------------------------------------------------|---------|
-| Public transport fares | Deutschlandticket (German national ticket): a monthly season ticket valid for all local and regional public transport across Germany (excluding ICE/IC/EC long-distance trains).<br>Since 2025 the price is €58 per month, up from €49; it is offered only as a subscription and can be cancelled monthly. | DB |
-| Transport budget (federal) | The Federal Ministry for Digital and Transport (BMDV) manages Einzelplan 12 of the federal budget. The 2025 draft budget allocates a total of ~ €46.7 billion, of which ≈ €32 billion are investments—making it the largest investment budget in the federal government.<br>The 2025 plan increases road and rail investment compared with 2024; for example, rail infrastructure funding rises to €15.279 billion and waterway funding to ≈ €1.8 billion. | BMDV |
-| Multimodality rate | National data are limited.<br><br>Berlin: ~ 53 % of residents use different modes of transport during a typical week. Carsharing is used by 14 % of respondents, 96 % use public transport, 11 % rent bikes, 75 % use private bicycles and 14 % rent e-scooters.<br>Dresden: ~ 51 % of residents use different modes of transport during a typical week. Carsharing is used by 11 % of respondents, 95 % use public transport, 13 % rent bikes, 74 % use private bicycles and 5 % rent e-scooters.<br>Frankfurt a.M.: ~ 54 % of residents use different modes of transport during a typical week. Carsharing is used by 17 % of respondents, 94 % use public transport, 12 % rent bikes, 76 % use private bicycles and 19 % rent e-scooters.<br>Munich: ~ 62 % of residents use different modes of transport during a typical week. Carsharing is used by 22 % of respondents, 97 % use public transport, 12 % rent bikes, 83 % use private bicycles and 18 % rent e-scooters. | SrV 2023 |
+
+<b> Fares, budgets </b> 
+
+<table>
+  <tr>
+    <th>Indicator</th>
+    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Sources</th>
+  </tr>
+  <tr>
+    <td valign="top">Public transport fares</td>
+    <td valign="top">
+      Deutschlandticket (German national ticket): a monthly season ticket valid for all local and regional public transport across Germany (excluding ICE/IC/EC longdistance trains). <br><br>
+      Since 2025 the price is €58 per month, up from €49; it is offered only as a subscription and can be cancelled monthly.<br><br>
+      Single ticket:<br>
+      Berlin:<br>
+      Frankfurt/M.:<br>
+      Hamburg:<br>
+      Munich:<br>
+      Dresden:<br><br>
+      Day pass:<br>
+      Berlin:<br>
+      Frankfurt/M.:<br>
+      Hamburg:<br>
+      Munich:<br>
+      Dresden:
+    </td>
+    <td valign="top">
+      DB: <a href="https://int.bahn.de/en/offers/regional/deutschland-ticket">Deutschlandticket</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Transport budget (federal)</td>
+    <td valign="top">
+      The Federal Ministry for Digital and Transport (BMDV) manages Einzelplan 12 of the federal budget. The 2025 draft budget allocates a total of ~ €46.7 billion, of which ≈ €32 billion are investments—making it the largest investment budget in the federal government. <br><br>
+      The 2025 plan increases road and rail investment compared with 2024; for example, rail infrastructure funding rises to €15.279 billion and waterway funding to ≈ €1.8 billion.
+    </td>
+    <td valign="top">
+      BMDV: <a href="https://www.bmv.de/SharedDocs/DE/Artikel/K/bundeshaushalt-zukunftsinvestitionen.html">Bundeshaushalt &amp; Zukunftsinvestitionen</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Public transport pass ownership</td>
+    <td valign="top">
+      In MiD 2023, 16 % of persons aged ≥14 years held a Deutschland-Ticket, 10 % held other season tickets for public transport, 41 % used single or multitrip tickets and 31 % never used public transport (rise from 26 % in 2017).
+    </td>
+    <td valign="top">MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a></td>
+  </tr>
+  <tr>
+    <td valign="top">Homeoffice share</td>
+    <td valign="top">In 2023 23.5 % of employed persons in Germany worked from home; 13.2 % did so daily or for more than half of their working time. This share almost doubled compared with 2019.</td>
+    <td valign="top">Destatis: <a href="https://www.destatis.de/EN/Themes/Labour/Labour-Market/Quality-Employment/Dimension3/3_11_homeoffice.html">Quality of Employment – Homeoffice</a></td>
+  </tr>
+  <tr>
+    <td valign="top">Driver’s licence ownership</td>
+    <td valign="top">In 2023 88 % of people aged ≥ 18 years had a driving licence. Licence ownership has fallen among the under30s but risen among seniors.</td>
+    <td valign="top">MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a></td>
+  </tr>
+</table>
+
 
 
 Accidents & emissions
