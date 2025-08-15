@@ -133,17 +133,6 @@
       Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a>
     </td>
   </tr>
-    <tr>
-    <td valign="top">Multimodality rate</td>
-    <td valign="top">
-      National data are limited<br><br>
-      Berlin: ~ 53 % of residents use different modes of transport during a typical week. Carsharing is used by 14 % of respondents, 96 % use public transport, 11 % rent bikes, 75 % use private bicycles and 14 % rent escooters<br>
-      Dresden: ~ 51 % of residents use different modes of transport during a typical week. Carsharing is used by 11 % of respondents, 95 % use public transport, 13 % rent bikes, 74 % use private bicycles and 5 % rent escooters<br>
-      Frankfurt a.M.: ~ 54 % of residents use different modes of transport during a typical week. Carsharing is used by 17 % of respondents, 94 % use public transport, 12 % rent bikes, 76 % use private bicycles and 19 % rent escooters<br>
-      Munich: ~ 62 % of residents use different modes of transport during a typical week. Carsharing is used by 22 % of respondents, 97 % use public transport, 12 % rent bikes, 83 % use private bicycles and 18 % rent escooters
-    </td>
-    <td valign="top">SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a></td>
-  </tr>
 </table>
 
 
