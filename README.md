@@ -189,7 +189,6 @@
       Overall passengercar registrations were 4.7 % lower than a year earlier, the halfyear total of ≈ 1.40 million cars was still the secondhighest since 2020.<br><br>
       Regional and environmental highlights: Bavaria recorded the most BEV registrations (50 714), followed by North RhineWestphalia (50 558) and BadenWürttemberg (38 699).<br><br>
       Average CO₂ emissions of new cars fell to 109.6 g/km, a reduction of 11.1 % compared with the previous year.<br><br>
-
       2024:<br><br>
       About 2.8 M new passenger cars were registered in 2024 (around 1% less compared to 2023):<br>
       380 609 were batteryelectric (13.5 %),<br>
