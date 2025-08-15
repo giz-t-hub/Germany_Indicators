@@ -51,6 +51,8 @@ Modal split (trip based) for Dresden:
 •	16 % bicycle
 
 National (2023): MiD 2023 shows that about 82 % of people leave the house on a typical day (down from 85 % in 2017); participation is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays  | SrV 2023: https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de  |
+
+
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
