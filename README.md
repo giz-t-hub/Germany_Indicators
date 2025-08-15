@@ -8,20 +8,20 @@
   <tr>
     <td valign="top">Mobility participation rate, modal split, daily travel distance and time</td>
     <td valign="top">
-      <b> Berlin </b>:<br>
+      <b> Berlin</b>:<br>
       ≈ 90 % of Berlin’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 92 min. <br><br>
-      Modal split (tripbased) for Berlin: <br>
+      Modal split (trip-based) for Berlin: <br>
        - 34 % on foot, <br>
        - 26 % public transport, <br>
        - 22 % car (MIV), <br>
        - 18 % bicycle.<br><br>
-      Frankfurt a.M.: <br>
+      <b> Frankfurt a.M.</b>: <br>
       ≈ 91 % of Frankfurt’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 20 km in 85 min. <br><br>
       Modal split (tripbased) for Frankfurt a.M.: <br>
-      37 % on foot, <br>
-      23 % car (MIV), <br>
-      20 % public transport, <br>
-      20 % bicycle.<br><br>
+       - 37 % on foot, <br>
+       - 23 % car (MIV), <br>
+       - 20 % public transport, <br>
+       - 20 % bicycle.<br><br>
       Hamburg:<br>
       ≈ 3.0 trips/day and 28 km/day/person; <br><br>
       Modal split in 2022 was roughly <br>
