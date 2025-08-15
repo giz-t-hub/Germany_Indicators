@@ -15,7 +15,6 @@
       26 % public transport, <br>
       22 % car (MIV), <br>
       18 % bicycle.<br><br>
-
       Frankfurt a.M.: <br>
       ≈ 91 % of Frankfurt’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 20 km in 85 min. <br><br>
       Modal split (tripbased) for Frankfurt a.M.: <br>
