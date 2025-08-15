@@ -1,62 +1,19 @@
 <b> Mobility indicators </b> 
 
+
 <table>
   <tr>
     <th>Indicator</th>
-    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Key data (Germany) & examples for cities/states</th>
     <th>Sources</th>
   </tr>
   <tr>
-    <td valign="top">Mobility participation rate, modal split, daily travel distance and time</td>
-    <td valign="top">
-      Berlin:<br>
-      ≈ 90 % of Berlin’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 92 min. <br><br>
-      Modal split (tripbased) for Berlin: <br>
-      34 % on foot, <br>
-      26 % public transport, <br>
-      22 % car (MIV), <br>
-      18 % bicycle.<br><br>
+    <td valign="top">...</td>
+    <td valign="top">...</td>
+    <td valign="top">...</td>
+  </tr>
+</table>
 
-      Frankfurt a.M.: <br>
-      ≈ 91 % of Frankfurt’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 20 km in 85 min. <br><br>
-      Modal split (tripbased) for Frankfurt a.M.: <br>
-      37 % on foot, <br>
-      23 % car (MIV), <br>
-      20 % public transport, <br>
-      20 % bicycle.<br><br>
-
-      Hamburg:<br>
-      ≈ 3.0 trips/day and 28 km/day/person; <br><br>
-      Modal split in 2022 was roughly <br>
-      32 % car (MIV), <br>
-      24 % public transport, <br>
-      22 % bicycle <br>
-      22 % walking, up from 2017 when cycling was 15 % and car use 36 %.<br><br>
-
-      Munich:<br>
-      ≈ 92 % of Munich’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 84 min. <br><br>
-      Modal split (tripbased) for Munich: <br>
-      32 % on foot<br>
-      24 % public transport, <br>
-      23 % bicycle, <br>
-      21 % car (MIV).<br>
-      ≈ 62 % of respondents used multiple modes in a typical week.<br><br>
-
-      Dresden:<br>
-      ≈ 94 % of Dresden’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 18 km in 82 min. <br><br>
-      Modal split (tripbased) for Dresden: <br>
-      34 % walking<br>
-      29 % car (MIV)<br>
-      21 % public transport<br>
-      16 % bicycle<br><br>
-
-      National (2023): MiD 2023 shows that about 82 % of people leave the house on a typical day (down from 85 % in 2017); participation is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays
-    </td>
-    <td valign="top">
-      SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
-      Frankfurt: <a href="https://frankfurt.de/themen/verkehr/verkehrsplanung/verkehrsdaten/mobilitaet-in-staedten---srv-2023/srv-ergenisse-frankfurt-am-main-2023">Stadt Frankfurt</a><br>
-      Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a><br>
-      Munich: <a href="https://muenchenunterwegs.de/pre
 
 
 Trips, distances & durations
