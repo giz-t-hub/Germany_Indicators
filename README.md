@@ -361,13 +361,29 @@
 </table>
 
 
+<b> Accidents & emissions </b> 
 
-Accidents & emissions
-
-| Indicator | Key data (Germany) & examples for cities/states | Sources |
-|-----------|-------------------------------------------------|---------|
-| Accident data | 2.513 million road-traffic accidents in Germany in 2024, of which 290,701 accidents involved personal injury and 2.222 million only material damage. The accidents caused 367,763 casualties. Among the casualties were 2,770 fatalities, 50,601 seriously injured and 314,392 slightly injured persons. Compared with 2023, fatalities fell by 69 (2.4 %), while the number of accidents remained roughly constant. | Destatis |
-| CO₂ emissions | Germany’s progress toward climate targets is mixed. Total greenhouse-gas emissions fell by 3.4 % in 2024 to 649 Mt CO₂-equivalent, bringing overall emissions 48.2 % below 1990 levels. Within this total, the transport sector emitted 143.1 million t CO₂eq in 2024, a slight decline (1.4 % versus 2023). Transport’s share of national greenhouse-gas emissions has grown to around 22 % (2023). While per-kilometre CO₂ emissions of cars have fallen by roughly 13.8 % since 1995, the increase in vehicle kilometres and heavier vehicles has kept overall CO₂ emissions from the road sector almost constant. The average CO₂ emission of newly registered cars in the first half of 2025 fell to 109.6 g/km, indicating progress in fleet efficiency. | UBA |
+<table>
+  <tr>
+    <th>Indicator</th>
+    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Sources</th>
+  </tr>
+  <tr>
+    <td valign="top">Accident data</td>
+    <td valign="top">
+      2.513 million roadtraffic accidents in Germany in 2024, of which 290 701 accidents involved personal injury and 2.222 million only material damage. The accidents caused 367 763 casualties. Among the casualties were 2 770 fatalities, 50 601 seriously injured and 314 392 slightly injured persons. Compared with 2023, fatalities fell by 69 (2.4 %), while the number of accidents remained roughly constant.
+    </td>
+    <td valign="top">Destatis: <a href="https://www.destatis.de/EN/Themes/Society-Environment/Traffic-Accidents/Tables/accidents-casualties.html">Accidents &amp; casualties</a></td>
+  </tr>
+  <tr>
+    <td valign="top">CO2-emissions</td>
+    <td valign="top">
+      Germany’s progress toward climate targets is mixed.&nbsp;Total greenhousegas emissions fell by 3.4 % in 2024 to 649 Mt CO₂equivalent, bringing overall emissions 48.2 % below 1990 levels. Within this total, the transport sector emitted 143.1 million t CO₂eq in 2024, a slight decline (1.4 % versus 2023). Transport’s share of national greenhousegas emissions has grown to around 22 % (2023) While perkilometre CO₂ emissions of cars have fallen by roughly 13.8 % since 1995, the increase in vehicle kilometres and heavier vehicles has kept overall CO₂ emissions from the road sector almost constant. The average CO₂ emission of newly registered cars in the first half of 2025 fell to 109.6 g/km, indicating progress in fleet efficiency.
+    </td>
+    <td valign="top">UBA: <a href="https://www.umweltbundesamt.de/sites/default/files/medien/11867/dokumente/emissionsdaten_2024_-_pressehintergrundinformationen.pdf">Emissionsdaten 2024 (PDF)</a></td>
+  </tr>
+</table>
 
 
 
