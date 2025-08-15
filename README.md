@@ -59,15 +59,15 @@
     <td valign="top">Mode share (distancebased)</td>
     <td valign="top">
       National (2023): for passengerkilometres the motorised individual transport still dominates but its share fell slightly. MiD 2023 estimates that car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
-      Berlin: 43 % public transport, 38 % car (MIV), 13 % bicycle, 6 % on foot.<br>
-      Dresden: 34 % walking, 29 % car (MIV), 21 % public transport, 16 % bicycle<br>
-      Frankfurt a.M.: 47 % car (MIV), 31 % public transport, 15 % bicycle, 7 % on foot.<br>
-      Hamburg: 43 % car (MIV), 42 % public transport, 11 % bicycle and 4 % walking<br> 
-      Munich: 40 % public transport, 38 % car (MIV), 16 % bicycle, 6 % on foot.
+       - <b> Berlin</b>: 43 % public transport, 38 % private car, 13 % bicycle, 6 % on foot.<br>
+       - <b> Dresden</b>: 7 % walking, 50 % private car, 29 % public transport, 14 % bicycle<br>
+       - <b> Frankfurt a.M.</b>: 47 % private car, 31 % public transport, 15 % bicycle, 7 % on foot.<br>
+       - <b> Hamburg </b>: 43 % car (MIV), 42 % public transport, 11 % bicycle and 4 % walking<br> 
+       - <b> Munich </b>: 40 % public transport, 38 % car (MIV), 16 % bicycle, 6 % on foot.
     </td>
     <td valign="top">
-      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
-      SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
+      MiD 2023 (national level): <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
+      SrV 2023 (Berlin, Dresden, Frankfurt, Munich): <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
       Hamburg mobility survey (MobiHam 2022): <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">PDF</a>
     </td>
   </tr>
