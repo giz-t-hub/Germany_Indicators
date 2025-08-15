@@ -66,7 +66,7 @@
       Berlin: 43 % public transport, 38 % car (MIV), 13 % bicycle, 6 % on foot.<br>
       Dresden: 34 % walking, 29 % car (MIV), 21 % public transport, 16 % bicycle<br>
       Frankfurt a.M.: 47 % car (MIV), 31 % public transport, 15 % bicycle, 7 % on foot.<br>
-      Hamburg: 43 % car (MIV), 42 % public transport, 11 % bicycle and 4 % walking<br>
+      Hamburg: 43 % car (MIV), 42 % public transport, 11 % bicycle and 4 % walking<br> 
       Munich: 40 % public transport, 38 % car (MIV), 16 % bicycle, 6 % on foot.
     </td>
     <td valign="top">
