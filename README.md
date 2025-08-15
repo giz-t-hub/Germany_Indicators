@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">Mobility participation rate, modal split, daily travel distance and time</td>
     <td valign="top">
-      <b> Berlin</b>:<br>
+      <b> Berlin</b>: 
       ≈ 90 % of Berlin’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 92 min. <br><br>
       Modal split (trip-based) for Berlin: <br>
        - 34 % on foot, <br>
