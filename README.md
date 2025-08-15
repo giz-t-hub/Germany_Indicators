@@ -44,7 +44,8 @@
       29 % car (MIV)<br>
       21 % public transport<br>
       16 % bicycle<br><br>
-      National (2023): MiD 2023 shows that about 82 % of people leave the house on a typical day (down from 85 % in 2017); participation is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays
+      <b> National level</b> (2023): MiD 2023 shows that about 82 % of people leave the house on a typical day (down from 85 % in 2017); participation is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays <br>
+      Walking accounts for 26 % of trips, cycling 11 %, car drivers 40 %, car passengers 13 % and public transport 11 %. 
     </td>
     <td valign="top">
       SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
@@ -54,12 +55,7 @@
       MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/publikationen2023.html">Publikationen</a> – <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a>
     </td>
   </tr>
-  <tr>
-    <td valign="top">Mode share (tripbased)</td>
-    <td valign="top">Germany/national data: Modal split shifted away from the car_ Walking accounts for 26 % of trips, cycling 11 %, car drivers 40 %, car passengers 13 % and public transport 11 %. This marks a fourpercentagepoint decline in the motorised individual transport share compared with 2017</td>
-    <td valign="top">MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a></td>
-  </tr>
-  <tr>
+   <tr>
     <td valign="top">Mode share (distancebased)</td>
     <td valign="top">
       National (2023): for passengerkilometres the motorised individual transport still dominates but its share fell slightly. MiD 2023 estimates that car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
