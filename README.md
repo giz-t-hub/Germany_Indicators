@@ -58,7 +58,7 @@
    <tr>
     <td valign="top">Mode share (distancebased)</td>
     <td valign="top">
-      National (2023): for passengerkilometres the motorised individual transport still dominates but its share fell slightly. MiD 2023 estimates that car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
+      National (2023): for passenger-kilometres, motorised individual transport still dominates but its share fell slightly. MiD 2023 estimates that car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
        - <b> Berlin</b>: 43 % public transport, 38 % private car, 13 % bicycle, 6 % on foot.<br>
        - <b> Dresden</b>: 7 % walking, 50 % private car, 29 % public transport, 14 % bicycle<br>
        - <b> Frankfurt a.M.</b>: 47 % private car, 31 % public transport, 15 % bicycle, 7 % on foot.<br>
@@ -162,7 +162,7 @@
       5,06 M motorbikes<br>
       3.83 M trucks <br>
       85 600 buses <br><br>
-      • Electric vehicles (stock): batteryelectric cars numbered ≈ 1.65 M, corresponding to 3.3 % of the car fleet.<br><br>
+      • Electric vehicles (stock): battery electric cars numbered ≈ 1.65 M, corresponding to 3.3 % of the car fleet.<br><br>
       Per capita<br>
       Examples (city and state level):<br>
       Nation-wide: 583 cars per 1 000 residents<br>
@@ -181,8 +181,8 @@
     <td valign="top">New registrations (2024) &amp; H1 2025</td>
     <td valign="top">
       H1 2025: <br><br>
-      248 726 new batteryelectric passenger cars registered (17.7 % of all new passengercar registrations)<br><br>
-      Overall passengercar registrations were 4.7 % lower than a year earlier, the halfyear total of ≈ 1.40 million cars was still the secondhighest since 2020.<br><br>
+      248 726 new battery electric passenger cars registered (17.7 % of all new passengercar registrations)<br><br>
+      Overall passenger car registrations were 4.7 % lower than a year earlier, the halfyear total of ≈ 1.40 million cars was still the second highest since 2020.<br><br>
       Regional and environmental highlights: Bavaria recorded the most BEV registrations (50 714), followed by North RhineWestphalia (50 558) and BadenWürttemberg (38 699).<br><br>
       Average CO₂ emissions of new cars fell to 109.6 g/km, a reduction of 11.1 % compared with the previous year.<br><br>
       2024:<br><br>
@@ -202,7 +202,7 @@
   <tr>
     <td valign="top">Share of EVs (stock)</td>
     <td valign="top">
-      Batteryelectric cars made up 3.3 % (≈ 1.7 M cars) of the passengercar fleet at the beginning of 2025. <br><br>
+      Battery electric cars made up 3.3 % (≈ 1.7 M cars) of the passengercar fleet at the beginning of 2025. <br><br>
       Hybrids accounted for ≈ 3.6 M cars (≈ 7.2 % of the fleet), including ≈ 1 M plugin hybrids (2.0 %).<br><br>
       Per capita<br>
       20 BEVs/1000 residents<br>
@@ -272,7 +272,7 @@
     <td valign="top">Number of trucks</td>
     <td valign="top">
       The vehicle stock on 1st April 2025 included ≈ 3.85 M trucks (including light and heavy trucks)<br><br>
-      Electric-trucks (BEV) comprise about 2.5 % (97 k vehicles) of the total truck fleet
+      Electric trucks (BEV) comprise about 2.5 % (97 k vehicles) of the total truck fleet
     </td>
     <td valign="top">KBA: The vehicle stock on 1st April 2025 (XLSX)</td>
   </tr>
