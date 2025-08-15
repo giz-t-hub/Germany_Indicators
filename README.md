@@ -4,15 +4,17 @@
 Mobility Indicator
 | Indicator  | Key data (Germany) & examples of selected cities and states | Sources |
 | ------------- | ------------- | ------------- |
-| Mobility participation rate, modal split, daily travel distance and time  | Berlin:
-≈ 90 % of Berlin’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 92 min. 
+| Mobility participation rate, modal split, daily travel distance and time  | 
 
-Modal split (trip based) for Berlin: 
-•	34 % on foot, 
-•	26 % public transport, 
-•	22 % car (MIV), 
-•	18 % bicycle.
-Frankfurt a.M.: 
+- Berlin:
+≈ 90 % of Berlin’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 92 min. 
+- Modal split (trip based) for Berlin: 
+ - •	34 % on foot, 
+ - •	26 % public transport, 
+ - •	22 % car (MIV), 
+ - •	18 % bicycle.
+
+- Frankfurt a.M.: 
 ≈ 91 % of Frankfurt’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 20 km in 85 min. 
 
 Modal split (trip based) for Frankfurt a.M.: 
