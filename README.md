@@ -80,11 +80,64 @@
 
 Trips, distances & durations
 
-| Indicator | Key data (Germany) & examples for cities/states | Sources |
-|-----------|-------------------------------------------------|---------|
-| Trips per person per day | Germany (2023): people made ≈ 3.0 trips per day on average, slightly fewer than the 3.1 trips measured in 2017.<br><br>Berlin: 3.3 trips/day<br>Dresden: 3.5 trips/day<br>Frankfurt a.M.: 3.5 trips/day<br>Hamburg 2022: 3.0 trips/day | MiD 2023, SrV 2023 |
-| Average trip length | Germany (2023): average daily distance travelled decreased to ≈ 35 km per person, down from 39 km in 2017. The MiD 2023 report notes that the average trip length fell slightly to just under 12 km, and the average time out of the house is around 1 h 24 min per day.<br><br>Examples of average trip lengths:<br>Berlin: ≈ 5.5 km/trip<br>Dresden: ≈ 4.8 km/trip<br>Frankfurt a.M.: ≈ 5.1 km/trip<br>Hamburg: ≈ 4.0 km/trip<br>Munich: ≈ 5.4 km/trip | MiD 2023, SrV 2023, MobiHam 2022 |
-| Average trip duration | Germany (2023): the MiD 2023 report states that people spend ≈ 84 minutes per day on the move, slightly less than the 85 minutes measured in 2017. With around 3 trips per day, this implies an average trip duration of about 28 minutes.<br><br>Examples of average trip durations:<br>Berlin: ≈ 25 min/trip<br>Dresden: ≈ 22 min/trip<br>Frankfurt a.M.: ≈ 22 min/trip<br>Hamburg: ≈ 20 min/trip<br>Munich: ≈ 23 min/trip | MiD 2023, SrV 2023, MobiHam 2022 |
+<table>
+  <tr>
+    <th>Indicator</th>
+    <th>Key data (Germany) &amp; examples for cities/states</th>
+    <th>Sources</th>
+  </tr>
+  <tr>
+    <td valign="top">Trips per person per day</td>
+    <td valign="top">
+      Germany (2023): people made ≈ 3.0 trips per day on average, slightly fewer than the 3.1 trips measured in 2017.<br><br>
+      Berlin: 3.3 trips/day<br>
+      Dresden: 3.5 trips/day<br>
+      Frankfurt a.M.: 3.5 trips/day<br>
+      Hamburg 2022: 3.0 trips/day
+    </td>
+    <td valign="top">
+      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
+      SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
+      Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Average trip length</td>
+    <td valign="top">
+      Germany (2023): average daily distance travelled decreased to ≈ 35 km per person, down from 39 km in 2017. The MiD 2023 report notes that the average trip length fell slightly to just under 12 km, and the average time out of the house is around 1 h 24 min per day<br><br>
+      Examples of average trip lengths<br>
+      Berlin: ≈ 5.5 km/trip<br>
+      Dresden: ≈ 4.8 km/trip<br>
+      Frankfurt a.M.: ≈ 5.1 km/trip<br>
+      Hamburg: ≈ 4.0 km/trip<br>
+      Munich: ≈ 5.4 km/trip
+    </td>
+    <td valign="top">
+      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
+      SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
+      Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Average trip duration</td>
+    <td valign="top">
+      Germany (2023): the MiD 2023 report states that people spend ≈ 84 minutes per day on the move, slightly less than the 85 minutes measured in 2017. With around 3 trips per day, this implies an average trip duration of about 28 minutes.<br><br>
+      Examples of average trip durations<br>
+      Berlin: ≈ 25 min/trip<br>
+      Dresden: ≈ 22 min/trip<br>
+      Frankfurt a.M.: ≈ 22 min/trip<br>
+      Hamburg: ≈ 20 min/trip<br>
+      Munich: ≈ 23 min/trip
+    </td>
+    <td valign="top">
+      MiD 2023: <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
+      SrV 2023: <a href="https://tu-dresden.de/bu/verkehr/ivs/srv/ressourcen/dateien/SrV2023_Staedtevergleich_v2.pdf?lang=de">PDF</a><br>
+      Hamburg: <a href="https://www.hamburg.de/resource/blob/890328/f034db462ffdb8806f83bf00b7778a3f/ergebnisbericht-der-studie-mobiham-2022-data.pdf">MobiHam 2022 (PDF)</a>
+    </td>
+  </tr>
+</table>
+
+
 
 Vehicle stock, registration & EV share
 
