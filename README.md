@@ -44,8 +44,8 @@
       29 % car (MIV)<br>
       21 % public transport<br>
       16 % bicycle<br><br>
-      <b> National level</b> (2023) <br>: 
-       - MiD 2023 shows that about 82 % of people leave the house on a typical day (down from 85 % in 2017); participation is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays <br>
+      <b> National level</b> (2023):<br> 
+       - About 82 % of people leave the house on a typical day (down from 85 % in 2017); rate is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays <br>
        - Walking accounts for 26 % of trips, cycling 11 %, car drivers 40 %, car passengers 13 % and public transport 11 %. 
     </td>
     <td valign="top">
