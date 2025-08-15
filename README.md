@@ -59,12 +59,13 @@
    <tr>
     <td valign="top">Mode share (distancebased)</td>
     <td valign="top">
-      National (2023): for passenger-kilometres, motorised individual transport still dominates but its share fell slightly. MiD 2023 estimates that car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
+      National (2023):<br> 
+      - Car drivers account for ≈54 % of personkilometres and car passengers ≈ 19 % (together ≈ 73 %). Public transport contributes ≈ 19 %, while cycling and walking each account for ≈ 4 % of the kilometres<br><br>
        - <b> Berlin</b>: 43 % public transport, 38 % private car, 13 % bicycle, 6 % on foot.<br>
-       - <b> Dresden</b>: 7 % walking, 50 % private car, 29 % public transport, 14 % bicycle<br>
-       - <b> Frankfurt a.M.</b>: 47 % private car, 31 % public transport, 15 % bicycle, 7 % on foot.<br>
-       - <b> Hamburg </b>: 43 % car (MIV), 42 % public transport, 11 % bicycle and 4 % walking<br> 
-       - <b> Munich </b>: 40 % public transport, 38 % car (MIV), 16 % bicycle, 6 % on foot.
+       - <b> Dresden</b>: 29 % public transport, 50 % private car, 14 % bicycle, 7 % on foot. <br>
+       - <b> Frankfurt a.M.</b>: 47 % private car, 31 % public transport,  15 % bicycle, 7 % on foot.<br>
+       - <b> Hamburg </b>: 43 % private car, 42 % public transport, 11 % bicycle and 4 % on foot.<br> 
+       - <b> Munich </b>: 38 % private car, 40 % public transport, 16 % bicycle, 6 % on foot.
     </td>
     <td valign="top">
       MiD 2023 (national level): <a href="https://www.mobilitaet-in-deutschland.de/pdf/MiD2023_Kurzbericht.pdf">Kurzbericht (PDF)</a><br>
