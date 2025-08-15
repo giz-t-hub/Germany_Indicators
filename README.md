@@ -15,21 +15,21 @@
        - 26 % public transport, <br>
        - 22 % car (MIV), <br>
        - 18 % bicycle.<br><br>
-      <b> Frankfurt a.M.</b>: <br>
+      <b> Frankfurt a.M.</b>:
       ≈ 91 % of Frankfurt’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 20 km in 85 min. <br><br>
       Modal split (tripbased) for Frankfurt a.M.: <br>
        - 37 % on foot, <br>
        - 23 % car (MIV), <br>
        - 20 % public transport, <br>
        - 20 % bicycle.<br><br>
-      Hamburg:<br>
+      <b> Hamburg:</b>
       ≈ 3.0 trips/day and 28 km/day/person; <br><br>
       Modal split in 2022 was roughly <br>
       32 % car (MIV), <br>
       24 % public transport, <br>
       22 % bicycle <br>
       22 % walking, up from 2017 when cycling was 15 % and car use 36 %.<br><br>
-      Munich:<br>
+      <b> Munich:</b>
       ≈ 92 % of Munich’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 84 min. <br><br>
       Modal split (tripbased) for Munich: <br>
       32 % on foot<br>
@@ -37,7 +37,7 @@
       23 % bicycle, <br>
       21 % car (MIV).<br>
       ≈ 62 % of respondents used multiple modes in a typical week.<br><br>
-      Dresden:<br>
+      <b> Dresden:</b>
       ≈ 94 % of Dresden’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 18 km in 82 min. <br><br>
       Modal split (tripbased) for Dresden: <br>
       34 % walking<br>
