@@ -1,5 +1,6 @@
 <b> Mobility indicators </b> 
 
+
 <table>
   <tr>
     <th>Indicator</th>
@@ -82,9 +83,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 Trips, distances & durations
