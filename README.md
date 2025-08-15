@@ -25,25 +25,25 @@
       <b> Hamburg:</b>
       ≈ 3.0 trips/day and 28 km/day/person; <br><br>
       Modal split in 2022 was roughly <br>
-      32 % car (MIV), <br>
-      24 % public transport, <br>
-      22 % bicycle <br>
-      22 % walking, up from 2017 when cycling was 15 % and car use 36 %.<br><br>
+       - 32 % car (MIV), <br>
+       - 24 % public transport, <br>
+       - 22 % bicycle <br>
+       - 22 % walking, up from 2017 when cycling was 15 % and car use 36 %.<br><br>
       <b> Munich:</b>
       ≈ 92 % of Munich’s population is mobile on a typical day, making 3.7 trips per person and travelling ≈ 20 km in 84 min. <br><br>
       Modal split (tripbased) for Munich: <br>
-      32 % on foot<br>
-      24 % public transport, <br>
-      23 % bicycle, <br>
-      21 % car (MIV).<br>
+       - 32 % on foot<br>
+       - 24 % public transport, <br>
+       - 23 % bicycle, <br>
+       - 21 % car (MIV).<br>
       ≈ 62 % of respondents used multiple modes in a typical week.<br><br>
       <b> Dresden:</b>
       ≈ 94 % of Dresden’s population is mobile on a typical day, making 3.8 trips per person and travelling ≈ 18 km in 82 min. <br><br>
       Modal split (tripbased) for Dresden: <br>
-      34 % walking<br>
-      29 % car (MIV)<br>
-      21 % public transport<br>
-      16 % bicycle<br><br>
+       - 34 % walking<br>
+       - 29 % car (MIV)<br>
+       - 21 % public transport<br>
+       - 16 % bicycle<br><br>
       <b> National level</b> (2023):<br> 
        - About 82 % of people leave the house on a typical day (down from 85 % in 2017); rate is 84 % on weekdays, 79 % on Saturdays and 71 % on Sundays <br>
        - Walking accounts for 26 % of trips, cycling 11 %, car drivers 40 %, car passengers 13 % and public transport 11 %. 
