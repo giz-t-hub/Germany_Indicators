@@ -358,10 +358,10 @@
   <tr>
     <td valign="top">Accident data</td>
     <td valign="top">
-      - 2.513 million roadtraffic accidents in Germany in 2024, thereof <br> 
+      2.513 million roadtraffic accidents in Germany in 2024, thereof <br> 
         - 290 701 accidents involved personal injury <br>
         - 2.222 million only material damage. <br>
-      - The accidents caused 367 763 casualties, thereof <br>
+      The accidents caused 367 763 casualties, thereof <br>
         - 2 770 fatalities <br>
         - 50 601 seriously injured <br>
         - 314 392 slightly injured persons. <br> 
