@@ -224,6 +224,20 @@
     <td valign="top">Average annual mileage per passenger car in 2024: 12 309 km (2023: 12 320 km). Petrol cars averaged 9 555 km/yr and diesel cars 16 984 km/yr</td>
     <td valign="top">KBA: <a href="https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/2024/verkehr_in_kilometern_kurzbericht_pdf">Kurzbericht (PDF)</a></td>
   </tr>
+  <tr>
+    <td valign="top">Age (stock)</td>
+    <td valign="top">Average age of passenger cars in 2021: 9.8 years<br>
+      Age of <b>passenger cars</b>:<br> 
+      - under 2 years: 15 %<br>
+      - 2 - 5 years: 15 %<br>
+      - 5 - 10 years: 27 %<br>
+      - 10 - 20 years: 33 %<br>
+      - over 20 years: 10 %<br>
+      Age of total <b>vehicle fleet</b>:<br>- 0 - 3 years: 20 %<br>- 4 - 5 years: 11 %<br>- 6 - 7 years: 11 %<br>- 8 - 9 years: 10 %<br>- 10 - 19 years: 33 %<br>- over 20 years: 15 %</td>
+    <td valign="top">KBA: <a href="https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Fahrzeugalter/2021/2021_b_kurzbericht_fz_alter_pdf.pdf?__blob=publicationFile&v=2">Durchschnittsalter der Personenkraftwagen wächs (PDF)</a> (Jan 2021)<br>
+      eurostat: <a href="https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_15551035/bookmark/table?bookmarkId=e730f80e-8bc7-43f1-889e-da7b3b22dbba&c=1740492924691">Passenger cars by age</a> (Jul 2025)<br>
+      KBA: <a href="https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Kraftverkehr/VK/vk_2024.html">Verkehr in Kilometern (VK), Zeitreihe 2014-2024 (XLSX)</a> (Jun 2025)</td>
+  </tr>
 </table>
 
 
