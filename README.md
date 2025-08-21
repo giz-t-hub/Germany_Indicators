@@ -332,6 +332,49 @@
     </td>
   </tr>
   <tr>
+    <td valign="top">Public transport networks</td>
+    <td valign="top">
+
+  - <b>Berlin</b>:
+    - Bus: ~1,800 km (46.2 km / 100,000 inhabitants)
+    - Tram: ~320 km (8.2 km / 100,000 inhabitants)
+    - Metro: ~155 km (4.0 km / 100,000 inhabitants)
+ - <b>Dresden</b>:
+    - Bus: 384.5 km (67.0 km / 100,000 inhabitants)
+    - Tram: 211.2 km (36.8 km / 100,000 inhabitants)
+ - <b>Frankfurt a.M.</b>:
+    - Bus: 581.1 km (74.8 km / 100,000 inhabitants)
+    - Tram: 115.4 km (14.9 km / 100,000 inhabitants)
+    - Metro: 109.6 km (14.1 km / 100,000 inhabitants)
+ - <b>Hamburg</b>:
+    - Bus: ~1,000 km (18.4 km / 100,000 inhabitants)
+    - Tram: ~147 km (2.7 km / 100,000 inhabitants)
+    - Metro: 106.4 km (2.0 km / 100,000 inhabitants)
+ - <b>Munich</b>:
+    - Bus: ~ km ( km / 100,000 inhabitants)
+    - Tram: ~82 km (5.1 km / 100,000 inhabitants)
+    - S-Bahn: ~442 km (27.5 km / 100,000 inhabitants)
+    - Metro: ~95 km (5.9 km / 100,000 inhabitants)
+  </td>
+    <td valign="top">
+      BVG: <a href="https://www.bvg.de/de/unternehmen/ueber-uns#">About us</a><br>
+      statistik Berlin Brandenburg: <a href="https://www.statistik-berlin-brandenburg.de/a-i-5-hj">Einwohnerbestand in Berlin – Grunddaten</a> (Dec 2024)<br>
+      DVB: <a href="https://www.dvb.de/en-gb/route-network/route-overview">Route overview</a><br>
+      Dresden: <a href="https://www.dresden.de/de/leben/stadtportrait/statistik/bevoelkerung-gebiet/Bevoelkerungsbestand.php">Population</a> (Dec 2024)<br>
+      TraffiQ: <a href="https://www.traffiq.de/fileadmin/user_upload/pdfs/Geschaeftsbericht/traffiQ_Geschaeftsbericht_2024.pdf">Geschäftsbericht 2024</a><br>
+      Statistikportal Frankfurt: <a href="https://statistikportal.frankfurt.de/statistik_aktuell/2025/FSA_2025_04_BevoelkerungEnde2024.html"> Moderates Wachstum: Bevölkerungszahl nähert sich 780.000</a> (Feb 2025)<br>
+      Hochbahn: <a href="https://www.hochbahn.de/de/betrieb/fahrzeuge-und-technik/busse">Unterwegs für Hamburg: die Busse der HOCHBAHN</a><br>
+      Wikipedia: <a href="https://en.wikipedia.org/wiki/Hamburg_S-Bahn">Hamburg S-Bahn</a><br>
+      Wikipedia: <a href="https://en.wikipedia.org/wiki/Hamburg_U-Bahn">Hamburg U-Bahn</a><br>
+      Metropolregion Hamburg: <a href="https://metropolregion.hamburg.de/unsere-services/statistikportal/bevoelkerung-14856">Bevölkerung</a> (Dec 2024)<br>
+      : <a href=""></a><br>
+      München: <a href="https://www.muenchen.de/verkehr/oeffentlicher-nahverkehr/tram-muenchen-fahrplaene-haltestellen-sightseeing">Tram in München: Alle Infos zur Straßenbahn</a><br>
+      München: <a href="https://www.muenchen.de/verkehr/oeffentlicher-nahverkehr/s-bahn-muenchen-fahrplaene-strecken-sperrungen">S-Bahn in München: Fahrpläne, Strecken, Störungen</a><br>
+      München: <a href="https://www.muenchen.de/verkehr/oeffentlicher-nahverkehr/u-bahn-muenchen-die-wichtigsten-infos">Münchner U-Bahn: Strecken, Linien, Tickets und weitere Infos</a><br>
+      München: <a href="https://stadt.muenchen.de/infos/statistik-bevoelkerung.html">Statistische Daten zur Münchner Bevölkerung</a> (30.06.2025)
+    </td>
+  </tr>
+  <tr>
     <td valign="top">Transport budget (federal)</td>
     <td valign="top">
       The Federal Ministry for Digital and Transport (BMDV) manages Einzelplan 12 of the federal budget. The 2025 draft budget allocates a total of ~ €46.7 billion, of which ≈ €32 billion are investments—making it the largest investment budget in the federal government. <br><br>
