@@ -226,16 +226,11 @@
   </tr>
   <tr>
     <td valign="top">Age (stock)</td>
-    <td valign="top">Average age of passenger cars in 2021: 9.8 years<br>
+    <td valign="top">Average age of passenger cars in 2024: 10.3 years<br>
       Age of <b>passenger cars</b>:<br> 
-      - under 2 years: 15 %<br>
-      - 2 - 5 years: 15 %<br>
-      - 5 - 10 years: 27 %<br>
-      - 10 - 20 years: 33 %<br>
-      - over 20 years: 10 %<br>
+      - under 2 years: 10 %<br>- 2 - 4 years: 14 %<br>- 5 - 9 years: 28 %<br>- 10 - 14 years: 21 %<br>- 15 - 29 years: 24 %<br>- over 30 years: 3 %<br>
       Age of total <b>vehicle fleet</b>:<br>- 0 - 3 years: 20 %<br>- 4 - 5 years: 11 %<br>- 6 - 7 years: 11 %<br>- 8 - 9 years: 10 %<br>- 10 - 19 years: 33 %<br>- over 20 years: 15 %</td>
-    <td valign="top">KBA: <a href="https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/Fahrzeugalter/2021/2021_b_kurzbericht_fz_alter_pdf.pdf?__blob=publicationFile&v=2">Durchschnittsalter der Personenkraftwagen wächs (PDF)</a> (Jan 2021)<br>
-      eurostat: <a href="https://ec.europa.eu/eurostat/databrowser/view/road_eqs_carage__custom_15551035/bookmark/table?bookmarkId=e730f80e-8bc7-43f1-889e-da7b3b22dbba&c=1740492924691">Passenger cars by age</a> (Jul 2025)<br>
+    <td valign="top">KBA: <a href="https://www.kba.de/DE/Statistik/Fahrzeuge/Fahrzeugarten/fahrzeugarten_node.html">Bestand an Personenkraftwagen nach ausgewähltem Fahrzeugalter am 1. Januar 2025</a> (Jan 2025)<br>
       KBA: <a href="https://www.kba.de/SharedDocs/Downloads/DE/Statistik/Kraftverkehr/VK/vk_2024.html">Verkehr in Kilometern (VK), Zeitreihe 2014-2024 (XLSX)</a> (Jun 2025)</td>
   </tr>
 </table>
