@@ -369,7 +369,7 @@
       Metropolregion Hamburg: <a href="https://metropolregion.hamburg.de/unsere-services/statistikportal/bevoelkerung-14856">Bevölkerung</a> (Dec 2024)<br>
       MVG: <a href="https://www.mvg.de/dam/jcr:bc1ca7c4-a1ea-4a3b-adc9-ebdb1da8bb0b/250526_MVG_Flyer_MVG_in_Zahlen_2025_Mai_DE_Webansicht.pdf">MVG – Mobilität in München: Zahlen und Fakten 2024</a>, 
       München: <a href="https://www.muenchen.de/verkehr/oeffentlicher-nahverkehr/s-bahn-muenchen-fahrplaene-strecken-sperrungen">S-Bahn in München: Fahrpläne, Strecken, Störungen</a>, 
-      <a href="https://stadt.muenchen.de/infos/statistik-bevoelkerung.html">Statistische Daten zur Münchner Bevölkerung</a> (30.06.2025)
+      <a href="https://stadt.muenchen.de/infos/statistik-bevoelkerung.html">Statistische Daten zur Münchner Bevölkerung</a> (Jun 2025)
     </td>
   </tr>
   <tr>
