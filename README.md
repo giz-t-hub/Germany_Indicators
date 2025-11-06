@@ -178,7 +178,7 @@
       Average CO₂ emissions of new cars fell to 109.6 g/km, a reduction of 11.1 % compared with the previous year.<br><br>
       2024:<br><br>
       About 2.8 M new passenger cars were registered in 2024 (around 1% less compared to 2023):<br>
-      380 609 were batteryelectric (13.5 %),<br>
+      380 609 were battery electric (13.5 %),<br>
       947.398 hybrids (33.6 %) [thereof: 1 191 905 plugin hybrids (6.8 %)] <br>
       1 475 209 petrol or diesel cars (52.4 %).<br><br>
       New registrations of commercial vehicles (Nutzfahrzeuge) were 426 912, including 19 142 BEVs.<br><br>
