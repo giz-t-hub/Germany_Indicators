@@ -4,7 +4,7 @@
     <th>Indicator</th>
     <th>Key data (Germany) &amp; examples for cities/states</th>
     <th>Sources</th>
-  </tr>
+  </tr> 
   <tr>
     <td valign="top">Mobility participation rate, modal split, daily travel distance and time</td>
     <td valign="top">
